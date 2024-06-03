@@ -1,0 +1,22 @@
+{
+  "name": "audio-e-commerce-api",
+  "version": "1.0.0",
+  "description": "Learning to make a E-Commerce API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek Shankar Phadake",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "express-validators": "^1.0.4",
+    "mongoose": "^8.4.1",
+    "multer-gridfs-storage": "^5.0.2"
+  }
+}
